@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 run [Jekyll](dashboard.html) 
 
-<dashboard.html>
+<a href ="dashboard.html">teste</a>
 
 - Bulleted
 - List
