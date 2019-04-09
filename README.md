@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 run [Jekyll](dashboard.html) 
 
-<a href ="dashboard-tabset.html">teste</a>
+<a href ="dashboard-tabset-multipages.html">teste</a>
 
 ### Markdown
 
