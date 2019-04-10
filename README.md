@@ -8,7 +8,19 @@ run [Jekyll](dashboard.html)
 
 <a href ="dashboard-tabset-multipages.html">teste</a>
 
-[a relative link](Jupyter Notebook exemples.ipynb)
+[ipynb](Jupyter Notebook exemples.ipynb)
+
+[md](Jupyter Notebook exemples.md)
+
+[html](Jupyter Notebook exemples.html)
+
+
+<a href ="Jupyter Notebook exemples.html">teste2</a>
+
+
+
+<a href ="Jupyter Notebook exemples.md">teste3</a>
+
 
 ### Markdown
 
