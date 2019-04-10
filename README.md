@@ -8,6 +8,8 @@ run [Jekyll](dashboard.html)
 
 <a href ="dashboard-tabset-multipages.html">teste</a>
 
+[a relative link](Jupyter Notebook exemples.ipynb)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
