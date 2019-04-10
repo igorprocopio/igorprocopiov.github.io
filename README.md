@@ -12,10 +12,10 @@ run [Jekyll](dashboard.html)
 
 [md](Jupyter Notebook exemples.md)
 
-[html](Jupyter Notebook exemples.html)
+[html](JupyterNotebookexemples.html)
 
 
-<a href ="Jupyter Notebook exemples.html">teste2</a>
+<a href ="JupyterNotebookexemples.html">teste2</a>
 
 
 
