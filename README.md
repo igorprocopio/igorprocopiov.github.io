@@ -17,6 +17,10 @@ run [Jekyll](dashboard.html)
 
 <a href ="JupyterNotebookexemples.html">teste2</a>
 
+``` R
+x = 1
+```
+
 
 
 <a href ="Jupyter Notebook exemples.md">teste3</a>
