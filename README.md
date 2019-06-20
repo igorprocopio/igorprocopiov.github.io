@@ -1,9 +1,8 @@
 ## Welcome to GitHub Pages
 
+# Bancos de dados
 
-
-[Dashboard PROASA](Dashboard_1206.html)
-
+[Banco1](Datasets/banco2.dta)
 
 You can use the [editor on GitHub](https://github.com/igorprocopio/igorprocopio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
