@@ -4,7 +4,7 @@
 
 [Banco1](Datasets/banco2.dta)
 
-[Do](Do-files/"0 - vizualizar_preparar_dados".do)
+[Do](Do-files/0 - vizualizar_preparar_dados.do)
 
 [rar](Do-files/Do-files.rar)
 
